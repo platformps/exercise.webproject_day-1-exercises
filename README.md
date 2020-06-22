@@ -6,7 +6,7 @@
     * Using the html tags that you already know, modify the html content so each individual file looks similar to their respective image.
 * **HTML5-Excercise-LoginPage**
     * Here is the link to my github project login-page.
-    *  https://github.com/da7tysixers/HTML5-LoginPage
+    *  https://da7tysixers.github.io/HTML5-LoginPage/
 
 
 ## Part 1 - Clone the project
