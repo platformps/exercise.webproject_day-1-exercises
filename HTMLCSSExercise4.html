@@ -1,0 +1,56 @@
+<html>
+<head>
+	<title>PerScolas: HTML/CSS Exercise4: Register Page: Monica Deshmukh</title>
+</head>
+<body>
+<header>
+	<form>
+		<label><h1>Regsiter Page</h1></label>
+
+		<label for="firstname">First name</label> 
+		<input type="text" id="firstname" name="name" placeholder="Enter first name" required></br>
+
+		<label for="lastname">Last name</label>
+		<input type="text" id="lastname" name="name" placeholder="Enter last name" required ></br>
+
+		<label for="email">Email</label>
+		<input type="email" id="email" placeholder="Enter your email"
+       pattern=".+@globex.com" size="30" required> </br>
+
+		<label for="pass">Password</label>
+		<input type="password" id="pass" name="password" placeholder="Enter your password"
+           minlength="8" required> </br>
+
+		<label for="confirmpass">Confirm password</label>
+		<input type="password" id="confirmpass" name="confirmpassword" placeholder="Confirm your password"
+           minlength="8" required> </br>
+
+		<label>Gender</label>
+		<input type="radio" id="choice1"
+     	name="gender" value="Male">
+    	<label for="choice1">Male</label>
+
+    	<input type="radio" id="choice2"
+     	name="gender" value="Female">
+    	<label for="choice2">Female</label></br>
+
+   
+		<label for="birthdate">Date of Birth</label>
+		<input type="date" id="birthdate"><br>
+
+		<!-- <label>Habits</label> -->
+		
+		  	<legend>Habits</legend>
+		    <input type="checkbox" id="sports" name="habit" value="sports">
+		    <label for="sports">You like sports</label>
+		    <input type="checkbox" id="eat" name="habit" value="eat">
+		    <label for="eat">You like to eat</label>
+		    <input type="checkbox" id="sleep" name="habit" value="sleep">
+		    <label for="sleep">You like to sleep</label><br>
+
+        <input type="submit" value="Register">
+	</form>
+</header>
+
+</body>
+</html>
