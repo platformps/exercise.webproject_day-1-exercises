@@ -1,0 +1,11 @@
+<models_template.html>
+
+
+<head>
+<nav>
+    <Excellent>
+<ul> <li>Hello World  <li> Goodbye World
+<h1> funny looking cat </h1>
+ <li><img src= 'https://images.app.goo.gl/KrFBRRYMa1fku6w96' />
+ </nav>
+<head>
