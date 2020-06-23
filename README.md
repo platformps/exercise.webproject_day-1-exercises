@@ -96,3 +96,28 @@
 * The edits should render a webpage which resembles the image below
 
 <img src ="./instruction-images/headings-template.png">
+
+
+
+
+<head>
+    <title>Calculator</title>
+    <style>
+        table{
+            width: 200px;
+            height: 300px;
+            text-align: center;
+            border: 5px cornflowerblue;
+        }
+        th, td{
+            border: 1px palevioletred;
+        }
+        th{
+            text-align: right;
+        }
+        td:hover{
+            background-color: papayawhip;
+            color: peachpuff;
+        }
+        </style>
+        </head>
