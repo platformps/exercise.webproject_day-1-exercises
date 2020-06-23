@@ -1,0 +1,58 @@
+body {
+    background-color: #b6da32 !important;
+}
+
+
+object {
+    height: 100vh;
+    width: 100vh;
+}
+
+main {
+    margin: 15% 35% 0;
+    width: 30%;
+    background-color: #fff;
+}
+
+.form-signin {
+    height: 400px;
+    box-shadow: 0 8px 12px 0 rgba(0,0,0,0.3);
+}
+
+h1 {
+    color: gray;
+    margin-top: 35px !important;
+}
+
+#inputEmail, #inputPassword {
+    width: 60%;
+    border: none;
+    background-color: #d3d3d3;
+    margin: 20px 20%;
+    border-radius: 0 !important ;
+}
+
+.fas {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.3);
+    margin: -100px 0 0 0;
+    padding-top: 25px;
+    height: 100px;
+    width:100px;
+    border-radius: 50%;
+    font-size: 50px;
+    background-color: #14a7af;
+    color: #fff;
+}
+
+.btn {
+    background-color: #57c9e4 !important;
+    border-radius: 0 !important ;
+    border: none !important;
+    width: 60% !important;
+    margin: 20px 20%;
+}
+
+.forgot {
+    color: orange !important;
+    margin-top: 20px !important;
+}
