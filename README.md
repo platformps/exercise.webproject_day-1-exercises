@@ -6,7 +6,7 @@
     * Using the html tags that you already know, modify the html content so each individual file looks similar to their respective image.
 
 
-## Part 1 - Clone the project
+### Part 1 - Clone the project
 * Begin by _forking_ this project into a personal repository.
    * To do this, click the `Fork` button located at the top right of this page.
 * Navigate to your github profile to find the _newly forked repository_.
@@ -21,7 +21,7 @@
 
 
 
-## Part 2 - `syntax_template.html`
+### Part 2 - `syntax_template.html`
 
 * Edit the `syntax_template.html` file to have the appropriate  _typographical emphasis_.
 * Upon completion of edits navigate to the _root directory_ of your project from your `Git Bash` terminal. From the terminal, execute the following commands:
@@ -43,7 +43,7 @@
 
 
 
-## Part 3 - `body_template.html`
+### Part 3 - `body_template.html`
 
 * Edit the `body_template.html` file to have the appropriate  _heading tags_ as well as _typographical emphasis_.
 * Upon completion of edits navigate to the _root directory_ of your project from your `Git Bash` terminal. From the terminal, execute the following commands:
@@ -61,7 +61,7 @@
 
 
 
-## Part 4 - `models_template.html`
+### Part 4 - `models_template.html`
 
 * Edit the `models_template.html` file to each of the following features:
     * _heading tag_
@@ -84,7 +84,7 @@
 
 
 
-## Part 5 - `headings_template.html`
+### Part 5 - `headings_template.html`
 
 * Edit the `headings_template.html` file to each of the following features:
     * _heading tag_
@@ -98,3 +98,25 @@
 * The edits should render a webpage which resembles the image below
 
 <img src ="./instruction-images/headings-template.png">
+
+
+
+
+
+
+## How to Submit
+
+#### Part 1 -  _Pushing_ local changes to remote repository
+* from a _terminal_ navigate to the root directory of the _cloned_ project.
+* from the root directory of the project, execute the following commands:
+    * add all changes
+      * `git add .`
+    * commit changes to be pushed
+      * `git commit -m 'I have added changes'`
+    * push changes to your repository
+      * `git push -u origin master`
+
+#### Part 2 - Submitting assignment
+* from the browser, navigate to the _forked_ project from **your** github account.
+* click the `Pull Requests` tab.
+* select `New Pull Request`
