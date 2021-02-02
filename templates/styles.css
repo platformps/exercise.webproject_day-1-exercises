@@ -1,0 +1,26 @@
+main {
+    color: white;
+    background: linear-gradient(45deg, #552583, #FDB927);
+    margin-top: 40px;
+  }
+
+  
+  .headers {
+    text-align: center;
+  }
+  
+  #image {
+    display: block;
+    max-width: 80%;
+    margin: auto;
+  }
+  
+  #img-caption {
+    text-align: center;
+  }
+  
+  #highlights {
+    text-align: center;
+  }
+  
+  
