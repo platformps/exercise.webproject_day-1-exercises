@@ -1,0 +1,35 @@
+body {
+    background-color: greenyellow;
+}
+
+.login {
+    margin: auto;
+    margin-top: 25px;
+    text-align: center;
+    background-color: white;
+    height: 70%;
+    width: 30%;
+    box-shadow: 10px 10px gray;
+}
+.gray-button {
+    margin: auto;
+    margin-bottom: 10px;
+    height: 40px;
+    width: 110px;
+    display: block;
+    background-color: lightgrey;
+}
+
+.blue-button {
+    margin: auto;
+    margin-bottom: 10px;
+    height: 40px;
+    width: 110px;
+    display: block;
+    background-color: turquoise;
+    color: white;
+}
+
+.forget-pass {
+    color: orange;
+}

@@ -1,0 +1,36 @@
+#main-container {
+    position: absolute;
+    width: 30%;
+    height: 60%;
+    background: linear-gradient(0deg, gray, lightgray);
+    border-radius: 15px;
+}
+
+#screen {
+    display: block;
+    position: relative;
+    background-color: black;
+    margin: auto;
+    margin-top: 10px;
+    width: 90%;
+    height: 40%;
+}
+
+#nav-bar {
+    display: block;
+    margin: auto;
+    margin-top: 50px;
+    position: relative;
+    background-color: white;
+    width:90%;
+    height: 40%;
+}
+
+#album-cover {
+    width:50%;
+    height:100%;
+    position: relative;
+    object-fit: cover;
+    float: right;
+ 
+}
